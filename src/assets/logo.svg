@@ -1,0 +1,25 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+ "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+ width="250.000000pt" height="200.000000pt" viewBox="0 0 250.000000 200.000000"
+ preserveAspectRatio="xMidYMid meet">
+
+  <defs>
+    <!-- Define the linear gradient -->
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#DF8908" />
+      <stop offset="50%" stop-color="#DF8908" />
+      <stop offset="106%" stop-color="#B415FF" />
+    </linearGradient>
+  </defs>
+
+  <g transform="translate(0.000000,200.000000) scale(0.100000,-0.100000)"
+  fill="url(#gradient)" stroke="none">
+    <path d="M1213 1383 c-16 -32 -57 -110 -90 -173 -185 -352 -343 -658 -343
+    -663 0 -4 38 -7 84 -7 l84 0 189 96 c184 94 187 96 133 90 -170 -18 -230 -19
+    -230 -5 0 19 195 392 207 396 8 3 196 -347 280 -519 12 -26 31 -52 42 -58 24
+    -12 121 -13 140 -1 11 7 -33 100 -216 452 -127 244 -235 445 -240 446 -5 2
+    -23 -23 -40 -54z"/>
+  </g>
+</svg>
