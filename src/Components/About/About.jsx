@@ -24,6 +24,8 @@ const About = () => {
                 <div className="about-skill"><p>React JS</p><hr style={{width:"90%"}} /></div>
                 <div className="about-skill"><p>JavaScript</p><hr style={{width:"70%"}} /></div>
                 <div className="about-skill"><p>React Native</p><hr style={{width:"60%"}} /></div>
+                <div className="about-skill"><p>Next JS</p><hr style={{width:"67%"}} /></div>
+
             </div>
         </div>
       </div>
